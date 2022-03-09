@@ -3,10 +3,9 @@ Lending Club is a marketplace for personal loans that matches borrowers who are 
 
 
 ## Table of Contents
-* [General Info](#Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. )
+* [General Info]
+* Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. 
 * [Technologies Used](#Python - Panda, Numpy, Seaborn, Plotly)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
