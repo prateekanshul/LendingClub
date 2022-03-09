@@ -4,15 +4,15 @@ Lending Club is a marketplace for personal loans that matches borrowers who are 
 
 ## Table of Contents
 * [General Info]: Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. 
-* [Technologies Used]: Python - Panda, Numpy, Seaborn, Plotly)
+* [Technologies Used]: Python - Panda, Numpy, Seaborn, Plotly
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return.
+- The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  
+- The company can utilize this knowledge for its portfolio and risk assessment.
+- Loan.csv is being used as the source data.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -22,7 +22,6 @@ Lending Club is a marketplace for personal loans that matches borrowers who are 
 - Term (Duration of Loan) is an important variable - Probability of Loans to be Fully Paid is less for 60 month Term.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
 ## Technologies Used
 - Panda
 - Numpy
@@ -30,13 +29,6 @@ Lending Club is a marketplace for personal loans that matches borrowers who are 
 - Plotly
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
 Created by [@prateekanshul] - feel free to contact me!
